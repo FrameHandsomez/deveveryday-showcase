@@ -1,0 +1,8 @@
+{
+  "name": "deveveryday-showcase",
+  "version": "1.0.0",
+  "description": "DevEveryday Labs - Engineering Capabilities Showcase & Interactive Demos for Vercel",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
